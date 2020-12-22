@@ -1,0 +1,13 @@
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.exe
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.deps.json
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.runtimeconfig.json
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.runtimeconfig.dev.json
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.dll
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\bin\Debug\netcoreapp3.1\Variáveis.pdb
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.csprojAssemblyReference.cache
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.AssemblyInfoInputs.cache
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.AssemblyInfo.cs
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.dll
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.pdb
+C:\Users\Deborah\Desktop\Senai\C#\Variáveis\obj\Debug\netcoreapp3.1\Variáveis.genruntimeconfig.cache
